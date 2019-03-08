@@ -13,7 +13,7 @@ client = discord.Client()
 
 
 client_id = os.environ["Naver_API_ID"]
-client_secret = os.environ["Naver_API_Secrdt"]
+client_secret = os.environ["Naver_API_Secret"]
 
 
 @client.event
