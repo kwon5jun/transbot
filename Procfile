@@ -1,1 +1,1 @@
-worker: python 번역기Bata2.2_up.py
+worker: python TransBot_Bata2.py
