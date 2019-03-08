@@ -6,8 +6,8 @@ import asyncio
 import os
 import urllib.request
 
-#if not discord.opus.is_loaded():
-#	discord.opus.load_opus('opus')
+if not discord.opus.is_loaded():
+	discord.opus.load_opus('opus')
 
 client = discord.Client()
 
